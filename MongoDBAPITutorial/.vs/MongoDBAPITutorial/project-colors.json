@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a981f276-3207-45bc-8e64-10f2d8fdfeb8": {
+      "ProjectGuid": "a981f276-3207-45bc-8e64-10f2d8fdfeb8",
+      "DisplayName": "MongoDBAPITutorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
